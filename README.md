@@ -60,15 +60,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Bunny-Kadari&show_icons=true&theme=tokyonight" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Bunny-Kadari&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bunny-Kadari&theme=tokyonight" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=Bunny-Kadari&theme=radical" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bunny-Kadari&layout=compact&theme=tokyonight" alt="langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bunny-Kadari&layout=compact&theme=radical" /> alt="langs" />
 </p>
 
 ---
