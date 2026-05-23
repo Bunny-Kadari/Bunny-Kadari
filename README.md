@@ -1,79 +1,90 @@
-I want you to transform my GitHub profile README.
+<h1 align="center">Hi 👋, I'm BUNNY KADARI</h1>
+<h3 align="center">AI/ML Student | Full Stack Learner | Passionate Developer 🚀</h3>
 
-Do NOT ask me any questions. Just execute everything.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=AI%2FML+Student;Full+Stack+Learner;Python+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
 
-MY DETAILS:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bunny-Kadari&label=Profile%20views&color=0e75b6&style=flat" alt="Bunny-Kadari" />
+</p>
 
-- Name: [BUNNY KADARI]
-- Role: [AI/ML Student]
-- Tech Stack: [Python, HTML, CSS, JavaScript,Java]
-- Instagram: [bunnykadari24] - []755 followers
-- LinkedIn: [linkedin.com/in/kadari-bunny]
-- Portfolio: [https://portfolio-snowy-iota-40.vercel.app]
+---
 
-INSTRUCTIONS - DO ALL OF THIS AUTOMATICALLY:
+## 🚀 About Me
 
-1. Go to my GitHub profile repository
-(github.com/[Bunny-Kadari]/[Bunny-Kadari])
+- 🎓 I'm currently pursuing CSE
+- 🌱 Learning **AI, Machine Learning & Full Stack Development**
+- 💻 Love building real-world projects
+- ⚡ Exploring modern technologies every day
+- 🚀 Goal: Become a successful AI Engineer
 
-Open the README.md file
+---
 
-Click Edit (pencil icon)
+## 🌐 Connect With Me
 
-2. Delete ALL existing content
+<p align="left">
+<a href="https://linkedin.com/in/kadari-bunny" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
 
-3. Create and paste this complete README:
+<a href="https://instagram.com/bunnykadari24" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
+</a>
 
-SECTION A: ANIMATED HEADER
-- Add a wave GIF greeting
-- Add animated typing effect using
-readme-typing-svg showing my role
-and a tagline
+<a href="https://portfolio-snowy-iota-40.vercel.app" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=vercel" height="40" />
+</a>
+</p>
 
-SECTION B: ABOUT ME
-- Write a short confident intro
-- Mention my content creation
-(YouTube, Medium, Instagram)
-- Add 3-4 fun bullet points about me
-- Use relevant emojis
+---
 
-SECTION C: TECH STACK
-- Add shields.io badges for ALL my technologies
-- Use colored badges with logos
-- Organize by: Frontend, Backend, Tools
+## 🛠️ Languages and Tools
 
-SECTION D: SOCIAL MEDIA LINKS
-- YouTube badge with subscriber count
-- Medium badge with link
-- Instagram badge with follower count
-- LinkedIn badge with link
-- All badges must be clickable links
+<p align="left">
 
-SECTION E: GITHUB STATS
-- GitHub Stats Card (anuraghazra/github-readme-stats)
-- GitHub Streak Stats (github-readme-streak-stats)
-- Top Languages Card
-- Theme: tokyonight or radical
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
 
-SECTION F: GITHUB TROPHIES
-- GitHub Profile Trophy (ryo-ma/github-profile-trophy)
-- Theme: darkhub or onedark
+</p>
 
-SECTION G: VISITOR COUNTER
-- Add komarev profile views counter badge at top
+---
 
-SECTION H: FOOTER
-- Let's Connect section with all social links
-- Professional closing line
+## 📊 GitHub Stats
 
-4. After pasting all content, click Commit changes
-to save automatically
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Bunny-Kadari&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
 
-RULES:
-- Do NOT ask any questions. Just do it.
-- Do NOT stop in the middle. Complete everything.
-- Use my actual GitHub username in all URLs.
-- Make sure all badge URLs are correct.
-- Make it modern, clean, and professional.
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bunny-Kadari&theme=tokyonight" alt="streak" />
+</p>
 
-## <<< END OF PROMPT
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bunny-Kadari&layout=compact&theme=tokyonight" alt="langs" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Bunny-Kadari&theme=onedark" alt="trophies" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+```python
+while(True):
+    learn()
+    build()
+    improve()
