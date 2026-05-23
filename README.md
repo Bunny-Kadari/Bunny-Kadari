@@ -17,7 +17,7 @@ AI/ML Student | Full Stack Learner | Passionate Developer 🚀
 # 🚀 About Me
 
 - 🎓 Pursuing Computer Science Engineering
-- 🌱 Currently learning AI, ML & Full Stack Development
+- 🌱 Currently learning AI, Machine Learning & Full Stack Development
 - 💻 Passionate about building real-world projects
 - 🚀 Goal: Become a successful AI Engineer
 - ⚡ Always learning new technologies
@@ -67,9 +67,9 @@ AI/ML Student | Full Stack Learner | Passionate Developer 🚀
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bunny-Kadari&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Bunny-Kadari&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bunny-Kadari&layout=compact&langs_count=8&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bunny-Kadari&layout=compact&theme=tokyonight&cache_seconds=1800" />
 
 </p>
 
@@ -79,7 +79,7 @@ AI/ML Student | Full Stack Learner | Passionate Developer 🚀
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Bunny-Kadari&theme=radical&hide_border=false"/>
+<img src="https://streak-stats.demolab.com?user=Bunny-Kadari&theme=tokyonight"/>
 
 </p>
 
@@ -89,7 +89,7 @@ AI/ML Student | Full Stack Learner | Passionate Developer 🚀
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Bunny-Kadari&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Bunny-Kadari&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"/>
 
 </p>
 
